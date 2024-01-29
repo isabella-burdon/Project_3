@@ -11,15 +11,15 @@ The visualisations for the project have been made in python and run through Jupy
 
 ### Ethical Considerations:
 
-1. The data is available to the public 
-2. The data does not have personal information that would defame or adversely affect anyone in real life.
-3. The source of the data can be made public
-4. The intention of this data analysis is to get a visualisation of suburbs close to the city having crime related events recorded and its rate of increase or decrease.
-5. There is no new interpretations of the data other than what the data clearly represents.
+- The data is available to the public 
+- The data does not have personal information that would defame or adversely affect anyone in real life.
+- The source of the data can be made public
+- The intention of this data analysis is to get a visualisation of suburbs close to the city having crime related events recorded and its rate of increase or decrease.
+- There is no new interpretations of the data other than what the data clearly represents.
 
 ### Dataset Source:
 
-"https://www.kaggle.com/datasets/kanchana1990/south-australia-crime-data-2022-2023?resource=download"
+https://www.kaggle.com/datasets/kanchana1990/south-australia-crime-data-2022-2023?resource=download
 
 ### Code Reference Material:
 
