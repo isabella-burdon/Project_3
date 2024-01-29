@@ -1,19 +1,30 @@
-# Project_3
-overview of the project and its purpose:
-the project intends to get a detailed view of the number of suburbs in South Australia that have reported a property or personal crime over the span of 2022 and 2023 . This data set has also been trimmed to represent reports that are close to the city at a range of  50Kms radius. The analysis includes statistical analysis, scatter charts, bar graphs to visualise the trend .
+# Project 3 - SA Crime Data Visualisations
+
+### Overview:
+
+The project intends to get a detailed view of the number of suburbs in South Australia that have reported a property or personal crime over the span of 2022 and 2023. To do this the data has been cleaned and trimmed to represent reports that are close to the city at a range of 50Kms radius. It has then been put in to an SQLite database and multiple visualisations have been created to display the data in a more easy to understand way.  The visualisations include interactive bar charts, line charts and pie charts to visualise the trend in the data.
+
+### Instructions:
+
+The visualisations for the project have been made in python and run through Jupyter Notebook. The final code block in notebook can run independently of the rest. Once this code has been run they can be interacted with though the two drop down boxes at the top of the code. Once a suburb or offense type is chosen it will change the visualisations automatically based on those selections. 
 
 
-consideration for ethics in data analysis in project3:
+### Ethical Considerations:
+
 1. The data is available to the public 
 2. The data does not have personal information that would defame or adversely affect anyone in real life.
 3. The source of the data can be made public
 4. The intention of this data analysis is to get a visualisation of suburbs close to the city having crime related events recorded and its rate of increase or decrease.
 5. There is no new interpretations of the data other than what the data clearly represents.
 
-Source of dataset: 
+### Dataset Source:
+
 "https://www.kaggle.com/datasets/kanchana1990/south-australia-crime-data-2022-2023?resource=download"
 
-References for code:
-1. Topic: date.strftime(format): Url:"https://datagy.io/python-strftime/"
-2. Topic: Example2: Bubblechart with colors, URl: "https://datascienceparichay.com/article/matplotlib-bubble-plot/"
+### Code Reference Material:
+
+**iPython Module:** [Link](https://ipython.org/ipython-doc/3/api/generated/IPython.display.html)
+**Widget Module:** [Link](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html)
+**Datetime:** [Link](https://datagy.io/python-strftime)
+**Bubblechart:** [Link](https://datascienceparichay.com/article/matplotlib-bubble-plot)
 
