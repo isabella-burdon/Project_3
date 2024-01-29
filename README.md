@@ -23,8 +23,9 @@ The visualisations for the project have been made in python and run through Jupy
 
 ### Code Reference Material:
 
-**iPython Module:** https://ipython.org/ipython-doc/3/api/generated/IPython.display.html
-**Widget Module:** https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html
-**Datetime:** https://datagy.io/python-strftime
-**Bubblechart:** https://datascienceparichay.com/article/matplotlib-bubble-plot
+**iPython Module:** https://ipython.org/ipython-doc/3/api/generated/IPython.display.html  
+**Widget Module:** https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html  
+**Datetime:** https://datagy.io/python-strftime  
+**Bubblechart:** https://datascienceparichay.com/article/matplotlib-bubble-plot  
+
 
