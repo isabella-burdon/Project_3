@@ -14,8 +14,7 @@ The visualisations for the project have been made in python and run through Jupy
 - The data is available to the public 
 - The data does not have personal information that would defame or adversely affect anyone in real life.
 - The source of the data can be made public
-- The intention of this data analysis is to get a visualisation of suburbs close to the city having crime related events recorded and its rate of increase or decrease.
-- There is no new interpretations of the data other than what the data clearly represents.
+- There are no new interpretations of the data other than what the data clearly represents.
 
 ### Dataset Source:
 
