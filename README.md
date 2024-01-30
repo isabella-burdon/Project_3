@@ -16,6 +16,10 @@ The visualisations for the project have been made in python and run through Jupy
 - The source of the data can be made public
 - There are no new interpretations of the data other than what the data clearly represents.
 
+### Presentation:
+
+https://docs.google.com/presentation/d/1HEVYUk7Pt5a8ZcTlMoQNRfAEaUcppUNqFJ7wZmEEHMQ/edit#slide=id.g266f414fd29_1_21
+
 ### Dataset Source:
 
 https://www.kaggle.com/datasets/kanchana1990/south-australia-crime-data-2022-2023?resource=download
